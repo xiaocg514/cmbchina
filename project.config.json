@@ -1,0 +1,110 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "1.9.91",
+	"appid": "wx64f5b6e62e08f720",
+	"projectname": "openAccount",
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 11,
+			"list": [
+				{
+					"id": -1,
+					"name": "完善信息页面",
+					"pathName": "pages/apply-account/complete-information/complete-info",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "申请信息",
+					"pathName": "pages/apply-account/apply-account",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "附近网点",
+					"pathName": "pages/nearby-dot/nearby-dot",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "尚未开户",
+					"pathName": "pages/apply-account/account-success/account-success",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "地点模糊搜索",
+					"pathName": "pages/nearby-dot/near-dot-search/near-dot-search",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "腾讯地图-网点列表获取",
+					"pathName": "pages/nearby1/nearByList",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "腾讯地图-地图网点分布",
+					"pathName": "pages/nearby1/mapDotList/map-dot-list",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "开户资料清单",
+					"pathName": "pages/index/required-information/required-info-page",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "我要开户",
+					"pathName": "pages/apply-account/account-step-intro/account-step",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "申请详情",
+					"pathName": "pages/history-record/account-detail/account-detail",
+					"query": ""
+				},
+				{
+					"id": 10,
+					"name": "历史记录单条",
+					"pathName": "pages/history-record/history-record-detail/history-record-detail",
+					"query": "recdId=1"
+				},
+				{
+					"id": -1,
+					"name": "历史记录列表",
+					"pathName": "pages/history-record/history-record-list/history-record-list",
+					"query": "recdId=1"
+				}
+			]
+		}
+	}
+}

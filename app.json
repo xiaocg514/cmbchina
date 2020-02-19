@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/apply-account/apply-account",
+    "pages/apply-account/account-success/account-success",
+    "pages/apply-account/complete-information/complete-info",
+    "pages/nearby-dot/nearby-dot",
+    "pages/index/introduction-of-process/introduction-of-process",
+    "pages/nearby-dot/near-dot-list/near-dot-list",
+    "pages/nearby-dot/near-dot-search/near-dot-search",
+    "pages/nearby1/nearByList",
+    "pages/nearby1/mapDotList/map-dot-list",
+    "pages/index/required-information/required-info-page",
+    "pages/apply-account/account-step-intro/account-step",
+    "pages/history-record/history-record-detail/history-record-detail",
+    "pages/history-record/history-record-list/history-record-list",
+    "pages/history-record/account-detail/account-detail",
+    "pages/history-record/feed-back/feed-back",
+    "pages/history-record/service-evaluation/service-evaluation"
+  ],
+  "window": {
+    "backgroundColor": "#c8152d",
+    "backgroundTextStyle": "black",
+    "navigationBarBackgroundColor": "#c8152d",
+    "navigationBarTitleText": "招商银行  |  企业开户",
+    "navigationBarTextStyle": "white"
+  }
+}
